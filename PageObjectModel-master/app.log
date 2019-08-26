@@ -1,7 +1,7 @@
 2017-10-06 02:10:51 DEBUG RequestAddCookies:123 - CookieSpec selected: default
-2017-10-06 02:10:51 DEBUG RequestAuthCache:77 - Auth cache not set in the context
+2017-10-06 02:10:51 DEBUG    RequestAuthCache:77 - Auth cache not set in the context
 2017-10-06 02:10:51 DEBUG PoolingHttpClientConnectionManager:255 - Connection request: [route: {}->http://localhost:48741][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
-2017-10-06 02:10:51 DEBUG PoolingHttpClientConnectionManager:288 - Connection leased: [id: 0][route: {}->http://localhost:48741][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2017-10-06 02:10:51 DEBUG  PoolingHttpClientConnectionManager:288 - Connection leased: [id: 0][route: {}->http://localhost:48741][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
 2017-10-06 02:10:51 DEBUG MainClientExec:235 - Opening connection {}->http://localhost:48741
 2017-10-06 02:10:51 DEBUG DefaultHttpClientConnectionOperator:139 - Connecting to localhost/127.0.0.1:48741
 2017-10-06 02:10:51 DEBUG DefaultHttpClientConnectionOperator:146 - Connection established 127.0.0.1:55077<->127.0.0.1:48741
